@@ -1,0 +1,2 @@
+# figureBed
+Markdown figure
